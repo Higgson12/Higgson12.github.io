@@ -36,7 +36,10 @@ h3{
     margin-bottom:32px;
     text-align: center;
 }
-
+#main{
+    margin-bottom:32px;
+    text-align: center;
+}
 #footer{
     margin-bottom:64px;
     text-align: center;
